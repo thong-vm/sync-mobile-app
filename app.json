@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bd4e73cb-5d94-4f28-8094-e26b2cef9e1b"
+      }
+    },
+    "owner": "thongvmsyncpartners"
   }
 }
